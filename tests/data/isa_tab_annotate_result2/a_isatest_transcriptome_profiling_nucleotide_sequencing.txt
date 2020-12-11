@@ -2,5 +2,3 @@ Sample Name	Protocol REF	Parameter Value[Concentration measurement]	Performer	Da
 alpha-N1	Nucleic acid extraction mRNA_seq				alpha-N1-RNA1					Library construction mRNA_seq										TRANSCRIPTOMIC	RNA-seq	PolyA	SINGLE	Illumina TruSeq Stranded mRNA									alpha-N1-RNA1-mRNA_seq1	alpha					Nucleic acid sequencing mRNA_seq	ILLUMINA	Illumina NovaSeq 6000	Phred+33					
 beta-N1	Nucleic acid extraction mRNA_seq				beta-N1-RNA1					Library construction mRNA_seq										TRANSCRIPTOMIC	RNA-seq	PolyA	SINGLE	Illumina TruSeq Stranded mRNA									beta-N1-RNA1-mRNA_seq1	beta					Nucleic acid sequencing mRNA_seq	ILLUMINA	Illumina NovaSeq 6000	Phred+33					
 gamma-N1	Nucleic acid extraction mRNA_seq				gamma-N1-RNA1					Library construction mRNA_seq										TRANSCRIPTOMIC	RNA-seq	PolyA	SINGLE	Illumina TruSeq Stranded mRNA									gamma-N1-RNA1-mRNA_seq1	gamma					Nucleic acid sequencing mRNA_seq	ILLUMINA	Illumina NovaSeq 6000	Phred+33					
-
-

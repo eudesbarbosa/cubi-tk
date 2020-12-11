@@ -4,11 +4,11 @@ Term Source File	http://data.bioontology.org/ontologies/UO	http://data.bioontolo
 Term Source Version	48	35	10	12	570	2.8	2019-08-12
 Term Source Description	Units of Measurement Ontology	Ontology for Biomedical Investigations	National Center for Biotechnology Information (NCBI) Organismal Classification	Online Mendelian Inheritance in Man	Human Phenotype Ontology	Orphanet Rare Disease Ontology	Cell Ontology
 INVESTIGATION
-Investigation Identifier	""
+Investigation Identifier	
 Investigation Title	test
-Investigation Description	""
-Investigation Submission Date	""
-Investigation Public Release Date	""
+Investigation Description	
+Investigation Submission Date	
+Investigation Public Release Date	
 Comment[Created With Configuration]	/path/to/isa-configurations/bih_studies/bih_germline
 Comment[Last Opened With Configuration]	bih_germline
 INVESTIGATION PUBLICATIONS
@@ -34,11 +34,11 @@ Investigation Person Roles Term Source REF
 STUDY
 Study Identifier	isatest
 Study Title	test
-Study Description	""
-Comment[Study Grant Number]	""
-Comment[Study Funding Agency]	""
-Study Submission Date	""
-Study Public Release Date	""
+Study Description	
+Comment[Study Grant Number]	
+Comment[Study Funding Agency]	
+Study Submission Date	
+Study Public Release Date	
 Study File Name	s_isatest.txt
 STUDY DESIGN DESCRIPTORS
 Study Design Type
@@ -60,8 +60,8 @@ Study Factor Type Term Source REF
 STUDY ASSAYS
 Study Assay File Name	a_isatest_transcriptome_profiling_nucleotide_sequencing.txt
 Study Assay Measurement Type	transcriptome profiling
-Study Assay Measurement Type Term Accession Number	""
-Study Assay Measurement Type Term Source REF	""
+Study Assay Measurement Type Term Accession Number	
+Study Assay Measurement Type Term Source REF	
 Study Assay Technology Type	nucleotide sequencing
 Study Assay Technology Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000626
 Study Assay Technology Type Term Source REF	OBI
@@ -69,18 +69,18 @@ Study Assay Technology Platform	Illumina
 STUDY PROTOCOLS
 Study Protocol Name	Sample collection	Nucleic acid extraction mRNA_seq	Library construction mRNA_seq	Nucleic acid sequencing mRNA_seq
 Study Protocol Type	Sample collection	Nucleic acid extraction mRNA_seq	Library construction mRNA_seq	Nucleic acid sequencing mRNA_seq
-Study Protocol Type Term Accession Number	""	""	""	""
-Study Protocol Type Term Source REF	""	""	""	""
-Study Protocol Description	""	""	""	""
-Study Protocol URI	""	""	""	""
-Study Protocol Version	""	""	""	""
-Study Protocol Parameters Name	""	Concentration measurement	"Provider project ID;Library source;Library selection;Library layout;Barcode sequence;Wet-lab insert size;Requestor contact;Library kit;Barcode name;Provider contact;Concentration measurement;Provider sample ID;Target insert size;Provider name;Requestor project;Requestor sample ID;Barcode kit;Barcode kit catalogue ID;Provider QC status;Library strategy"	"Base quality encoding;Platform;Center contact;Instrument model;Center name"
-Study Protocol Parameters Name Term Accession Number	""	""	";;;;;;;;;;;;;;;;;;;"	";;;;"
-Study Protocol Parameters Name Term Source REF	""	""	";;;;;;;;;;;;;;;;;;;"	";;;;"
-Study Protocol Components Name	""	""	""	""
-Study Protocol Components Type	""	""	""	""
-Study Protocol Components Type Term Accession Number	""	""	""	""
-Study Protocol Components Type Term Source REF	""	""	""	""
+Study Protocol Type Term Accession Number				
+Study Protocol Type Term Source REF				
+Study Protocol Description				
+Study Protocol URI				
+Study Protocol Version				
+Study Protocol Parameters Name		Concentration measurement	Provider project ID;Library source;Library selection;Library layout;Barcode sequence;Wet-lab insert size;Requestor contact;Library kit;Barcode name;Provider contact;Concentration measurement;Provider sample ID;Target insert size;Provider name;Requestor project;Requestor sample ID;Barcode kit;Barcode kit catalogue ID;Provider QC status;Library strategy	Base quality encoding;Platform;Center contact;Instrument model;Center name
+Study Protocol Parameters Name Term Accession Number			;;;;;;;;;;;;;;;;;;;	;;;;
+Study Protocol Parameters Name Term Source REF			;;;;;;;;;;;;;;;;;;;	;;;;
+Study Protocol Components Name				
+Study Protocol Components Type				
+Study Protocol Components Type Term Accession Number				
+Study Protocol Components Type Term Source REF				
 STUDY CONTACTS
 Study Person Last Name
 Study Person First Name
@@ -93,4 +93,3 @@ Study Person Affiliation
 Study Person Roles
 Study Person Roles Term Accession Number
 Study Person Roles Term Source REF
-
